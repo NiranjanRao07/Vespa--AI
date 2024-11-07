@@ -6,10 +6,10 @@ This project involves creating a search application using Vespa, a platform for 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Steps to Complete the Assignment](#steps-to-complete-the-assignment)
-    - [1. Data Processing](#1-data-processing)
-    - [2. Run Vespa as a Docker Container](#2-run-vespa-as-a-docker-container)
-    - [3. Configure Vespa and Ingest Data](#3-configure-vespa-and-ingest-data)
-    - [4. Run Search Queries](#4-run-search-queries)
+    - [Data Processing](#1-data-processing)
+    - [Run Vespa as a Docker Container](#2-run-vespa-as-a-docker-container)
+    - [Configure Vespa and Ingest Data](#3-configure-vespa-and-ingest-data)
+    - [Run Search Queries](#4-run-search-queries)
 
 ## Prerequisites
 - **Python 3.x**
