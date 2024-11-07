@@ -1,4 +1,4 @@
-Vespa Search Application
+# Vespa Search Application
 
 ## Overview
 This project involves creating a search application using Vespa, a platform for scalable and fast data serving. The main objective is to process movie data, deploy a Vespa instance in Docker, and execute various types of searches. The tasks include data processing, application deployment, and query execution.
